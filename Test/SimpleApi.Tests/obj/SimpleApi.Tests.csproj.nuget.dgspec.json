@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Azure\\Test\\SimpleApi.Tests\\SimpleApi.Tests.csproj": {}
+    "C:\\Azure\\test\\simpleapi.tests\\simpleapi.tests.csproj": {}
   },
   "projects": {
     "C:\\Azure\\simpleapi\\simpleapi.csproj": {
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Azure\\Test\\SimpleApi.Tests\\SimpleApi.Tests.csproj": {
+    "C:\\Azure\\test\\simpleapi.tests\\simpleapi.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Azure\\Test\\SimpleApi.Tests\\SimpleApi.Tests.csproj",
-        "projectName": "SimpleApi.Tests",
-        "projectPath": "C:\\Azure\\Test\\SimpleApi.Tests\\SimpleApi.Tests.csproj",
+        "projectUniqueName": "C:\\Azure\\test\\simpleapi.tests\\simpleapi.tests.csproj",
+        "projectName": "simpleapi.tests",
+        "projectPath": "C:\\Azure\\test\\simpleapi.tests\\simpleapi.tests.csproj",
         "packagesPath": "C:\\Users\\Vildronse\\.nuget\\packages\\",
-        "outputPath": "C:\\Azure\\Test\\SimpleApi.Tests\\obj\\",
+        "outputPath": "C:\\Azure\\test\\simpleapi.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vildronse\\AppData\\Roaming\\NuGet\\NuGet.Config"
