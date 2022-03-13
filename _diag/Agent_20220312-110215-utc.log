@@ -1,0 +1,114 @@
+[2022-03-12 11:02:15Z INFO AgentProcess] Agent package win-x64.
+[2022-03-12 11:02:15Z INFO AgentProcess] Running on Windows (X64).
+[2022-03-12 11:02:15Z INFO AgentProcess] RuntimeInformation: Microsoft Windows 10.0.19042.
+[2022-03-12 11:02:15Z INFO AgentProcess] Version: 2.200.2
+[2022-03-12 11:02:15Z INFO AgentProcess] Commit: 2ebaa3d8b40bee7430d8a3c9ee2292b34e5986ca
+[2022-03-12 11:02:15Z INFO AgentProcess] Culture: en-IN
+[2022-03-12 11:02:15Z INFO AgentProcess] UI Culture: en-US
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO AgentProcess] Validating directory permissions for: 'C:\Azure'
+[2022-03-12 11:02:15Z INFO PowerShellExeUtil] Generation: '1'
+[2022-03-12 11:02:15Z INFO PowerShellExeUtil] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\1\PowerShellEngine', value name 'PowerShellVersion': '2.0'
+[2022-03-12 11:02:15Z INFO PowerShellExeUtil] Unsupported version. Skipping.
+[2022-03-12 11:02:15Z INFO PowerShellExeUtil] Generation: '3'
+[2022-03-12 11:02:15Z INFO PowerShellExeUtil] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\3\PowerShellEngine', value name 'PowerShellVersion': '5.1.19041.1'
+[2022-03-12 11:02:15Z INFO PowerShellExeUtil] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\3\PowerShellEngine', value name 'ApplicationBase': 'C:\Windows\System32\WindowsPowerShell\v1.0'
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework', value name 'InstallRoot': 'C:\Windows\Microsoft.NET\Framework64\'
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'SOFTWARE\Microsoft\NET Framework Setup\NDP' contains sub keys:
+[2022-03-12 11:02:15Z INFO AgentProcess]  'CDF'
+[2022-03-12 11:02:15Z INFO AgentProcess]  'v4'
+[2022-03-12 11:02:15Z INFO AgentProcess]  'v4.0'
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4', value name 'Version' is null.
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4', value name '' is null.
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'SOFTWARE\Microsoft\NET Framework Setup\NDP\v4' contains sub keys:
+[2022-03-12 11:02:15Z INFO AgentProcess]  'Client'
+[2022-03-12 11:02:15Z INFO AgentProcess]  'Full'
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'Version': '4.8.04084'
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'Install': '1'
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'InstallPath': 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\'
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'Release': '528372'
+[2022-03-12 11:02:15Z INFO AgentProcess] Type is System.Int32
+[2022-03-12 11:02:15Z INFO AgentProcess] Interpreted version: 4.7.0
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'Version': '4.8.04084'
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'Install': '1'
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'InstallPath': 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\'
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'Release': '528372'
+[2022-03-12 11:02:15Z INFO AgentProcess] Type is System.Int32
+[2022-03-12 11:02:15Z INFO AgentProcess] Interpreted version: 4.7.0
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4.0', value name 'Version' is null.
+[2022-03-12 11:02:15Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4.0', value name '': 'deprecated'
+[2022-03-12 11:02:15Z INFO AgentProcess] Found 2 versions:
+[2022-03-12 11:02:15Z INFO AgentProcess]  4.7.0
+[2022-03-12 11:02:15Z INFO AgentProcess]  4.7.0
+[2022-03-12 11:02:15Z INFO AgentProcess] Testing for min NET Framework version: '4.5'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO HostContext] Setting up value for origin: Remove.Password
+[2022-03-12 11:02:15Z INFO HostContext] Value is empty.
+[2022-03-12 11:02:15Z INFO HostContext] Setting up value for origin: Remove.Token
+[2022-03-12 11:02:15Z INFO HostContext] Value is empty.
+[2022-03-12 11:02:15Z INFO CommandSettings] Remove {
+  "Auth": null,
+  "LaunchBrowser": false,
+  "Password": null,
+  "Token": null,
+  "Unattended": false,
+  "UserName": null,
+  "Help": false,
+  "Version": false
+}
+[2022-03-12 11:02:15Z INFO AgentProcess] Arguments parsed
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO HostContext] Well known config file 'Proxy': 'C:\Azure\.proxy'
+[2022-03-12 11:02:15Z INFO VstsAgentWebProxy] No proxy setting found.
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO HostContext] Well known config file 'Certificates': 'C:\Azure\.certificates'
+[2022-03-12 11:02:15Z INFO AgentCertificateManager] No certificate setting found.
+[2022-03-12 11:02:15Z INFO Agent] ExecuteCommand
+[2022-03-12 11:02:15Z INFO ConfigurationStore] currentAssemblyLocation: C:\Azure\bin\Agent.Listener.dll
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO ConfigurationStore] binPath: C:\Azure\bin
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO ConfigurationStore] RootFolder: C:\Azure
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO HostContext] Well known config file 'Agent': 'C:\Azure\.agent'
+[2022-03-12 11:02:15Z INFO ConfigurationStore] ConfigFilePath: C:\Azure\.agent
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO HostContext] Well known config file 'Credentials': 'C:\Azure\.credentials'
+[2022-03-12 11:02:15Z INFO ConfigurationStore] CredFilePath: C:\Azure\.credentials
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO HostContext] Well known config file 'Service': 'C:\Azure\.service'
+[2022-03-12 11:02:15Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Azure\.service
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO HostContext] Well known config file 'Autologon': 'C:\Azure\.autologon'
+[2022-03-12 11:02:15Z INFO ConfigurationStore] AutoLogonSettingsFilePath: C:\Azure\.autologon
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO HostContext] Well known config file 'Options': 'C:\Azure\.options'
+[2022-03-12 11:02:15Z INFO ConfigurationStore] RuntimeOptionsFilePath: C:\Azure\.options
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Bin': 'C:\Azure\bin'
+[2022-03-12 11:02:15Z INFO HostContext] Well known directory 'Root': 'C:\Azure'
+[2022-03-12 11:02:15Z INFO HostContext] Well known config file 'SetupInfo': 'C:\Azure\.setup_info'
+[2022-03-12 11:02:15Z INFO ConfigurationStore] SetupInfoFilePath: C:\Azure\.setup_info
+[2022-03-12 11:02:15Z INFO ConfigurationStore] IsServiceConfigured()
+[2022-03-12 11:02:15Z INFO ConfigurationStore] IsServiceConfigured: False
+[2022-03-12 11:02:15Z INFO ConfigurationStore] IsAutoLogonConfigured: False
+[2022-03-12 11:02:15Z INFO ConfigurationManager] AutoLogon was not configured on the agent.
+[2022-03-12 11:02:15Z INFO Terminal] WRITE LINE: Removing agent from the server
+[2022-03-12 11:02:15Z INFO ConfigurationStore] IsConfigured()
+[2022-03-12 11:02:15Z INFO ConfigurationStore] IsConfigured: False
+[2022-03-12 11:02:15Z INFO ConfigurationStore] HasCredentials()
+[2022-03-12 11:02:15Z INFO ConfigurationStore] stored False
+[2022-03-12 11:02:15Z INFO Terminal] WRITE LINE: Cannot connect to server, because config files are missing. Skipping removing agent from the server.
+[2022-03-12 11:02:15Z INFO Terminal] WRITE LINE: Removing .credentials
+[2022-03-12 11:02:15Z INFO Terminal] WRITE LINE: Does not exist. Skipping Removing .credentials
+[2022-03-12 11:02:15Z INFO Terminal] WRITE LINE: Removing .agent
+[2022-03-12 11:02:15Z INFO Terminal] WRITE LINE: Does not exist. Skipping Removing .agent
